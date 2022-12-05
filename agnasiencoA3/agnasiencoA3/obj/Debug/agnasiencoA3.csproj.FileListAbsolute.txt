@@ -1,0 +1,7 @@
+C:\Users\Dev\source\repos\agnasiencoA3\agnasiencoA3\bin\agnasiencoA3.dll.config
+C:\Users\Dev\source\repos\agnasiencoA3\agnasiencoA3\bin\agnasiencoA3.dll
+C:\Users\Dev\source\repos\agnasiencoA3\agnasiencoA3\bin\agnasiencoA3.pdb
+C:\Users\Dev\source\repos\agnasiencoA3\agnasiencoA3\obj\Debug\agnasiencoA3.csproj.AssemblyReference.cache
+C:\Users\Dev\source\repos\agnasiencoA3\agnasiencoA3\obj\Debug\agnasiencoA3.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\agnasiencoA3\agnasiencoA3\obj\Debug\agnasiencoA3.dll
+C:\Users\Dev\source\repos\agnasiencoA3\agnasiencoA3\obj\Debug\agnasiencoA3.pdb
