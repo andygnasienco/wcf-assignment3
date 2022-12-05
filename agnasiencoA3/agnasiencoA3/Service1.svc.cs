@@ -19,8 +19,7 @@ namespace agnasiencoA3
             string Message;
             SqlConnection con = new SqlConnection("Server=DESKTOP-A6AL2TJ\\SQLEXPRESS2;Database=vegdb;User Id=sa;Password=admin123;");
             con.Open();
-            SqlCommand cmd = new SqlCommand("insert into vegetable(veg_id, name) values(@veg_id, @name)", con);
-            cmd.Parameters.AddWithValue("@veg_id", vegetableDetails.Veg_ID);
+            SqlCommand cmd = new SqlCommand("delete from vegetable where @name", con);
             cmd.Parameters.AddWithValue("@name", vegetableDetails.Name);
             int result = cmd.ExecuteNonQuery();
 
